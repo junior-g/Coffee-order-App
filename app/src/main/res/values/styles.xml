@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!-- <item name="colorPrimary">#4CAF50</item>
+         <item name="colorPrimaryDark">#388E3C</item>
+         <item name="colorAccent">@color/colorAccent</item>
+         <item name="textColorPrimary">#000000</item>
+         <item name="navigationBarColor">#1B5E20</item>-->
+     </style>
+     <style name="someconatin">
+         <item name="android:layout_width">wrap_content</item>
+         <item name="android:layout_height">wrap_content</item>
+         <item name="android:layout_marginLeft">16dp</item>
+         <item name="android:layout_marginTop"> 16dp</item>
+     </style>
+ </resources>
